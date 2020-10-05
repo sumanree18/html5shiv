@@ -1,0 +1,89 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+   <title>😍maggi😍</title>
+   <head>  
+   
+
+</head><!--
+   
+             🙌thank🙌
+________________________________________       
+    
+     ❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃
+         Created by ✨suman.💞 
+         
+                  _I_
+            __Hope You Like__
+                  _It_
+              __Friends__
+                   😊
+                   🙏
+     ❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃❁❃ 
+    
+    ✨Thanku friends for giving own✨          
+            ✨valueable time✨     
+________________________________________
+   
+
+ -->
+<body>
+ <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script type="text/javascript">
+        Swal.fire({
+  title: "<i>Notice</i>", 
+  html: "Breakfast are ready</br>🍜🍜🍜🍜</br>I hope you like its friends</br>🍜🍜🍜🍜</br>😊😊😊😊😊😊😊",  
+  confirmButtonText: "<u>ok</u>", 
+  icon: "warning",
+  width: '400px',
+}).then((result) => {
+  if (result.value) {
+    
+  }
+})
+</script>
+ 
+ 
+ 
+ <main id="main">
+ <div class="container">
+ 
+ <div class="shadow"></div>
+ <div class="mug"></div></div>
+ <div id='container1'>
+ <div id='container'>
+ <div id='stick7'></div>
+ <div id='stick8'></div>
+ <div id='stick9'></div>
+ <div id='stick10'></div>
+    <div class="heart" >
+  <div id="ele1">💨</div>
+  <div id="ele2">💨</div>
+  <div id="ele3">💨</div>
+  <div id="ele4">💨</div> 
+  </div>
+ </div>       
+ </div>
+ </div>
+   <t>.</t>
+  <s>.</s>
+  <p>🍜Yumm.yummy🍜</br>
+  😋I hope you like its friends😋</p>
+    <a > .</a>
+   <b>.</b>
+    <c > .</c>
+     
+ </main> 
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
